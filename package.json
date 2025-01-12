@@ -27,7 +27,6 @@
   "homepage": "https://github.com/JosipFX1/arc.aoi#readme",
   "dependencies": {
     "aoi.js": "github:JosipFX1/aoi.js-arc.aoi",
-    "arc.aoi": "^1.0.2",
     "chalk": "^4.1.2"
   }
 }
